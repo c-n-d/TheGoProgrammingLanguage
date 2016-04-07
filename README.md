@@ -4,10 +4,10 @@
 
 The Go Programming Language on [Amazon](http://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
 
-This package contains exercises and listings found throughout the text. Most files are in the main pacakge and can be run with:
+This package contains exercises and listings found throughout the text. Most files are in the main package and can be run like:
 
 ```bash
-$ go run ex_1_1.go
+$ go run src/ch1/ex_1_1/main.go
 ```
 
 ### References
