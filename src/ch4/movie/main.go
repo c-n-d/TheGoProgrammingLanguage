@@ -39,7 +39,6 @@ import (
     "fmt"
     "log"
     "encoding/json"
-    "os"
 )
 
 type Movie struct {
